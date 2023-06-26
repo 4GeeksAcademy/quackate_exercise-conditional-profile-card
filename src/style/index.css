@@ -1,6 +1,11 @@
+body {
+  background-color: rgb(233, 254, 204);
+}
+
 .filters {
-  background: white;
+  background-color: rgb(233, 254, 204);
   width: 100%;
+  text-align: center;
 }
 .filters li {
   display: inline-block;
@@ -23,7 +28,7 @@
   width: 300px;
   height: 350px;
   margin: 50px auto;
-  background: #fff;
+  background: #fefbf2;
   border-radius: 5px;
   box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
 }
